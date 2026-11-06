@@ -41,4 +41,23 @@ flowchart TD
     F --> G[S3 Output Folder]
     D --> H[CloudWatch Logs]
 ```
+## project screenshots
+
+s3 bucket creation
+Screenshot 2026-11-04 162207.png
+
+file upload
+Screenshot 2026-11-04 162207.png
+
+lambda function code
+Screenshot 2026-11-04 162207.png
+
+s3 event trigger
+Screenshot 2026-11-04 162207.png
+
+proccessed output
+Screenshot 2026-11-04 162853.png
+
+
+
 
