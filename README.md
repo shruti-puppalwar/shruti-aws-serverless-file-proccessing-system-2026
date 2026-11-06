@@ -28,3 +28,17 @@ The uploaded text file is automatically processed, and the converted content is 
 What I Learned
 
 Through this project, I gained practical experience with S3 event notifications, Lambda functions, IAM permissions and serverless architecture. I also understood how AWS services can work together without managing servers manually.
+
+## Architecture Diagram
+
+```mermaid
+flowchart TD
+    A[User] --> B[S3 Input Folder]
+    B --> C[S3 Event Notification]
+    C --> D[AWS Lambda]
+    D --> E[Read Text File]
+    E --> F[Convert Text to Uppercase]
+    F --> G[S3 Output Folder]
+    D --> H[CloudWatch Logs]
+```
+
