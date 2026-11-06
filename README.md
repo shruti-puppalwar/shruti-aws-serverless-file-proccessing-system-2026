@@ -46,19 +46,7 @@ flowchart TD
 ## Project Screenshots
 
 ### 1. S3 Bucket Creation
-![S3 Bucket](S3%20bucket%20creation%20Screenshot%202026-11-04%20162207.png)
-
-### 2. File Upload
-![File Upload](file%20upload%20Screenshot%202026-11-04%20162207.png)
-
-### 3. Lambda Function Code
-![Lambda Code](lambda%20function%20code%20Screenshot%202026-11-04%20162207.png)
-
-### 4. S3 Event Trigger
-![S3 Trigger](s3%20event%20trigger%20Screenshot%202026-11-04%20162207.png)
-
-### 5. Processed Output
-![Processed Output](processed%20output%20Screenshot%202026-11-04%20162853.png)
+![S3 Bucket](Screenshot%202026-11-04%20162207.png)
 
 
 
